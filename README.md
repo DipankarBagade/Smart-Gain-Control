@@ -27,6 +27,6 @@ An intelligent system that automatically adjusts your Windows system volume base
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/<your-username>/Smart-Gain-Control.git
+git clone https://github.com/<Dipankar Bagade>/Smart-Gain-Control.git
 cd Smart-Gain-Control
 pip install -r requirements.txt
